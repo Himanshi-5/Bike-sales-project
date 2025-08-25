@@ -29,3 +29,6 @@ North America had the maximum bike buyers
 
 Higher income and short-distance commuters purchased more bikes
 
+**Link of dashboard**
+https://github.com/Himanshi-5/Bike-sales-project/blob/main/bike%20sales%20dashboard.png
+
